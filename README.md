@@ -5,9 +5,9 @@ This repository contains deep learning resources and code, primarily focused on 
 
 ## Visualizations
 
-### CNN Architecture
-![CNN Architecture](images/cnn_architecture.png)
-*Figure: Simple schematic of the Convolutional Neural Network used for binary classification.*
+### Transformer Architecture
+![Transformer Architecture](images/transformer_architecture.png)
+*Figure: Simple schematic of a Transformer model with 6 encoder and 6 decoder blocks, showing input, output, and connections.*
 
 ### Training and Validation Loss
 ![Loss Curve](images/loss_curve.png)
